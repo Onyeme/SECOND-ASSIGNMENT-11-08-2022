@@ -1,0 +1,81 @@
+.container-fluid{
+    background-color: #3bacf0;
+    
+}
+.nav-link{
+color: white;
+}
+.nav-item{
+    color: white;
+}
+.page1{
+    padding-top: 220px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #3bacf0;
+    border: #3bacf0;
+    padding-bottom: 180px;
+}
+.ony{
+    
+color: black;
+}
+.hh{
+    
+    padding-left:400px;
+    padding-right:400px;
+}
+.pp{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.second{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.rr{
+    padding-top: 100px;
+    background-color:lightskyblue;
+    
+
+}
+.map{
+    padding-top: 100px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: lightskyblue;
+    padding-bottom: 100px;
+}
+.lll{
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.img{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.tt{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.very{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    background-color: lightskyblue;
+    padding-bottom: 100px;
+}
+.hh1{
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.pp1{
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.hh2{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
